@@ -19,7 +19,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiady-blue)](https://linkedin.com/in/kiady)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiady-Ram-blue)](https://www.linkedin.com/in/kiady-ram-5216592a9/)
 <!---
 KiadyNirina/KiadyNirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
