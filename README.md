@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @KiadyNirina
 
+## About me 🌟
 👨‍💻 Fullstack Developer | ⚙️ PHP & Python | 🎨 Passionate about UI/UX and security | 🚀 Always looking for new skills!
 
-### Technologies
+### Technologies 💻
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
@@ -13,11 +14,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005EB8?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Stats
+### Stats 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
-
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kiady-blue)](https://linkedin.com/in/kiady)
 <!---
 KiadyNirina/KiadyNirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
