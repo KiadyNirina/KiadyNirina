@@ -14,7 +14,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiady123&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 
 <!---
