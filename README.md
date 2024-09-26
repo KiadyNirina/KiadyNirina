@@ -21,7 +21,9 @@ Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/U
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 #### Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiady-Ram-blue)](https://www.linkedin.com/in/kiady-ram-5216592a9/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](nkedin.com/in/kiady-ram-5216592a9/)
+- [![Gmail](https://img.shields.io/badge/Email-Send%20me%20an%20email-red?style=for-the-badge&logo=gmail&logoColor=white)](kiady142ram@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-black?style=for-the-badge&logo=github)](https://github.com/KiadyNirina)
 <!---
 KiadyNirina/KiadyNirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
