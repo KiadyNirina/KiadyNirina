@@ -2,10 +2,10 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KiadyNirina/&title=Profile%20Views)
 
-### About me 🌟
+### About me 🌟:
 Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/UX 🎨 and security ⚙️ | Always looking for new skills! 🚀
 
-### Technologies 💻
+### Technologies 💻:
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30"/>
 </a>
@@ -43,14 +43,20 @@ Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/U
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30"/>
 </a>
 
-### Stats 📊
+### Stats 📊:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
-### Contact
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiady%20ram-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiady-ram-5216592a9/)
-- [![Gmail](https://img.shields.io/badge/Email-kiady142ram@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](kiady142ram@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-KiadyNirina-black?style=for-the-badge&logo=github)](https://github.com/KiadyNirina)
+### Contact:
+<a href="https://www.linkedin.com/in/ton-profil" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+</a>
+<a href="https://www.facebook.com/ton-profil" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"/>
+</a>
+<a href="mailto:tonemail@example.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40"/>
+</a>
 
 
 <!---
