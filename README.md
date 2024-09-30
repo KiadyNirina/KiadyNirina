@@ -2,7 +2,9 @@
   <h1>👋 Hi, I’m @KiadyNirina</h1>
 </div>
 
-<center>![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KiadyNirina/&title=Profile%20Views)</center>
+<div align="center">
+  <p>![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KiadyNirina/&title=Profile%20Views)</p>
+</div>
 
 Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/UX 🎨 and security ⚙️ | Always looking for new skills! 🚀
 
