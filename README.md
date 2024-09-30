@@ -1,4 +1,6 @@
-<center># 👋 Hi, I’m @KiadyNirina</center>
+<div align="center">
+  <h1>👋 Hi, I’m @KiadyNirina</h1>
+</div>
 
 <center>![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KiadyNirina/&title=Profile%20Views)</center>
 
