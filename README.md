@@ -48,15 +48,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 ### Contact:
-<a href="https://www.linkedin.com/in/ton-profil" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
-</a>
-<a href="https://www.facebook.com/ton-profil" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"/>
-</a>
-<a href="mailto:tonemail@example.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40"/>
-</a>
+<ul>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/> : <a>https://www.linkedin.com/in/kiady-ram-5216592a9/</a></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="40"/> : <a>https://www.facebook.com/kiady.rambeloson/?locale=fr_FR</a></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="40"/> : kiady142ram@gmail.com</li>
+</ul>
 
 
 <!---
