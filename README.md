@@ -2,7 +2,7 @@
   <h1>👋 Hi, I’m @KiadyNirina</h1>
 </div>
 
-![Hits](https://hits.sh/github.com/KiadyNirina/KiadyNirina.svg?style=flat-square)
+![Profile views](https://hits.sh/github.com/KiadyNirina/KiadyNirina.svg?style=plastic)
 
 Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/UX 🎨 and security ⚙️ | Always looking for new skills! 🚀
 
