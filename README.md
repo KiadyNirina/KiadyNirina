@@ -1,46 +1,45 @@
-# 👋 Hi, I’m @KiadyNirina
+<center># 👋 Hi, I’m @KiadyNirina</center>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KiadyNirina/&title=Profile%20Views)
+<center>![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KiadyNirina/&title=Profile%20Views)</center>
 
-### About me 🌟:
 Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/UX 🎨 and security ⚙️ | Always looking for new skills! 🚀
 
 ### Technologies 💻:
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="30"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" height="30"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" height="30"/>
+<a href="https://svelte.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="30"/>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="30"/>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" height="30"/>
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30"/>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="30"/>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30"/>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="30"/>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 </a>
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30"/>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 
 ### Stats 📊:
