@@ -9,18 +9,39 @@ Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/U
 <a href="#">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
 </a>
-[![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](#)
-[![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](#)
-[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](#)
-[![Svelte](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg)](#)
-[![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)](#)
-[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](#)
-[![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)](#)
-[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](#)
-[![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)](#)
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](#)
-[![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)](#)
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](#)
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50"/>
+</a>
+<a href="#">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</a>
 
 #### Stats 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
