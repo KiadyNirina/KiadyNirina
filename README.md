@@ -6,15 +6,18 @@
 Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/UX 🎨 and security ⚙️ | Always looking for new skills! 🚀
 
 #### Technologies 💻
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005EB8?style=for-the-badge&logo=mysql&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](#)
+[![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](#)
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](#)
+[![Svelte](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg)](#)
+[![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg)](#)
+[![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)](#)
+[![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg)](#)
+[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](#)
+[![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)](#)
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](#)
+[![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)](#)
+[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](#)
 
 #### Stats 📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
@@ -24,6 +27,8 @@ Fullstack Developer 👨‍💻 | PHP 🐘 & Python 🐍 | Passionate about UI/U
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-kiady%20ram-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiady-ram-5216592a9/)
 - [![Gmail](https://img.shields.io/badge/Email-kiady142ram@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](kiady142ram@gmail.com)
 - [![GitHub](https://img.shields.io/badge/GitHub-KiadyNirina-black?style=for-the-badge&logo=github)](https://github.com/KiadyNirina)
+
+
 <!---
 KiadyNirina/KiadyNirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
