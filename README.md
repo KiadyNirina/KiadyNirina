@@ -48,9 +48,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 #### Contact:
-  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20"/> : <a href = "https://www.linkedin.com/in/kiady-ram-5216592a9/">Kiady Ram</a></p>
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="20"/> : <a href = "https://www.facebook.com/kiady.rambeloson/?locale=fr_FR">Kiady Rambeloson</a></p>
-  <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="20"/> : kiady142ram@gmail.com</p>
+  <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/> : <a href = "https://www.linkedin.com/in/kiady-ram-5216592a9/">Kiady Ram</a></p>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30"/> : <a href = "https://www.facebook.com/kiady.rambeloson/?locale=fr_FR">Kiady Rambeloson</a></p>
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30"/> : kiady142ram@gmail.com</p>
 
 
 <!---
