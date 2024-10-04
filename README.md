@@ -5,7 +5,7 @@
 
 <a href="https://hits.sh/camo.githubusercontent.com/f36cfddd00875175678c181c8d1456f392366d379b71601e512f5fe7150d824f/68747470733a2f2f686974732e73682f6769746875622e636f6d2f4b696164794e6972696e612f4b696164794e6972696e612e7376673f7374796c653d706c6173746963/"><img alt="Hits" src="https://hits.sh/camo.githubusercontent.com/f36cfddd00875175678c181c8d1456f392366d379b71601e512f5fe7150d824f/68747470733a2f2f686974732e73682f6769746875622e636f6d2f4b696164794e6972696e612f4b696164794e6972696e612e7376673f7374796c653d706c6173746963.svg?label=Profile%20views&color=119bcc&labelColor=ffffff"/></a>
 
-### Technologies 💻:
+#### Technologies 💻:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
 </a>
@@ -43,11 +43,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 
-### Stats 📊:
+#### Stats 📊:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
-### Contact:
+#### Contact:
 <ul>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="20"/> : <a href = "https://www.linkedin.com/in/kiady-ram-5216592a9/">Kiady Ram</a></li>
   <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="20"/> : <a href = "https://www.facebook.com/kiady.rambeloson/?locale=fr_FR">Kiady Rambeloson</a></li>
