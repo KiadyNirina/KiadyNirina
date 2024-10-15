@@ -46,6 +46,16 @@
 ### Stats 📊:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
+<div style="display: flex; flex-direction: row;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/KiadyNirina/topics-over-time?theme=dark" width="400" height="auto">
+    <img src="https://stats.quine.sh/KiadyNirina/topics-over-time?theme=light" width="400" height="auto"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/KiadyNirina/languages-over-time?theme=dark" width="400" height="auto">
+    <img src="https://stats.quine.sh/KiadyNirina/languages-over-time?theme=light" width="400" height="auto"/>
+    </picture>
+</div>
 
 ### Contact:
   <span><b>Linkedin</b> : <a href = "https://www.linkedin.com/in/kiady-ram-5216592a9/">Kiady Ram</a></span><br>
