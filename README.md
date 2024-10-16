@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611a8zuhxjk1ran8v1zmyzl374xy0f6b9p9yqvr64a5&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-<div/>
+</div>
 
 ### Technologies 💻:
 <p align="center">
