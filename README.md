@@ -7,6 +7,12 @@
   <img src="https://profile-counter.glitch.me/kiadynirina/count.svg?"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611a8zuhxjk1ran8v1zmyzl374xy0f6b9p9yqvr64a5&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<div/>
+
 ### Technologies 💻:
 <p align="center">
   <a href="https://skillicons.dev">
