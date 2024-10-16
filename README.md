@@ -21,6 +21,18 @@
   <span><b>Facebook</b> : <a href = "https://www.facebook.com/kiady.rambeloson/?locale=fr_FR">Kiady Rambeloson</a></span><br>
   <span><b>Email</b> : kiady142ram@gmail.com</span>
 
+  <div align="center">
+    <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/kiady-ram-5216592a9/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Kiady%20Ram&logo=linkedin&label=LINKEDIN&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="mailto:kiady142ram@gmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    </a>
+  </div>
+
 
 <!---
 KiadyNirina/KiadyNirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
