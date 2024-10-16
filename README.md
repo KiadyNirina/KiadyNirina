@@ -21,16 +21,16 @@
 ### Contact:
   <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" width="200" alt="facebook logo"  /><br>
+      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" width="500" alt="facebook logo"  /><br>
     </a>
     <a href="https://www.linkedin.com/in/kiady-ram-5216592a9/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Kiady%20Ram&logo=linkedin&label=LINKEDIN&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+      <img src="https://img.shields.io/static/v1?message=Kiady%20Ram&logo=linkedin&label=LINKEDIN&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" width="500" alt="linkedin logo"  />
     </a><br>
     <a href="mailto:kiady142ram@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+      <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="500" alt="gmail logo"  />
     </a><br>
     <a href="https://kiadynirina.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=KiadyN&logo=&label=PORTFOLIO&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
+      <img src="https://img.shields.io/static/v1?message=KiadyN&logo=&label=PORTFOLIO&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" width="500" alt="portfolio"  />
     </a><br>
   </div>
 
