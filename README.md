@@ -17,7 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 ### Contact:
-  <div align="center">
+  <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /><br>
     </a>
