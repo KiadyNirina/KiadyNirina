@@ -6,7 +6,7 @@
 <a href="https://hits.sh/camo.githubusercontent.com/f36cfddd00875175678c181c8d1456f392366d379b71601e512f5fe7150d824f/68747470733a2f2f686974732e73682f6769746875622e636f6d2f4b696164794e6972696e612f4b696164794e6972696e612e7376673f7374796c653d706c6173746963/"><img alt="Hits" src="https://hits.sh/camo.githubusercontent.com/f36cfddd00875175678c181c8d1456f392366d379b71601e512f5fe7150d824f/68747470733a2f2f686974732e73682f6769746875622e636f6d2f4b696164794e6972696e612f4b696164794e6972696e612e7376673f7374796c653d706c6173746963.svg?label=Profile%20views&color=119bcc&labelColor=ffffff"/></a>
 
 ### Technologies 💻:
-<a style="text_decoration:none" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a style="text_decoration:none; background: grey;" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
