@@ -29,6 +29,9 @@
     <a href="mailto:kiady142ram@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
     </a><br>
+    <a href="https://kiadynirina.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=KiadyN&logo=&label=PORTFOLIO&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
+    </a><br>
   </div>
 
 
