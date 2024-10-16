@@ -17,20 +17,16 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 ### Contact:
-  <span><b>Linkedin</b> : <a href = "https://www.linkedin.com/in/kiady-ram-5216592a9/">Kiady Ram</a></span><br>
-  <span><b>Facebook</b> : <a href = "https://www.facebook.com/kiady.rambeloson/?locale=fr_FR">Kiady Rambeloson</a></span><br>
-  <span><b>Email</b> : kiady142ram@gmail.com</span>
-
   <div align="center">
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /><br>
     </a>
     <a href="https://www.linkedin.com/in/kiady-ram-5216592a9/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Kiady%20Ram&logo=linkedin&label=LINKEDIN&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-    </a>
+    </a><br>
     <a href="mailto:kiady142ram@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a>
+    </a><br>
   </div>
 
 
