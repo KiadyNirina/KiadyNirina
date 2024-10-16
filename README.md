@@ -21,7 +21,7 @@
 ### Contact:
   <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /><br>
+      <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" width="50" alt="facebook logo"  /><br>
     </a>
     <a href="https://www.linkedin.com/in/kiady-ram-5216592a9/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Kiady%20Ram&logo=linkedin&label=LINKEDIN&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
