@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
-### Contact:
+### How to reach me:
   <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Kiady%20Rambeloson&logo=facebook&label=FACEBOOK&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  /><br>
@@ -34,9 +34,6 @@
     </a><br>
     <a href="mailto:kiady142ram@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-    </a><br>
-    <a href="https://kiadynirina.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=KiadyN&logo=&label=PORTFOLIO&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio"  />
     </a><br>
   </div>
 
