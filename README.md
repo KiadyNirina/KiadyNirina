@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I’m Kiady Nirina</h1>
-  <p><b>Young Fullstack Developer from MADAGASCAR, passionate about UI/UX and security </b></p>
+  <p><b>Young Fullstack Developer from MADAGASCAR 🪐, passionate about UI/UX 🎨 and security ⚙</b></p>
 </div>
 
 <div align="center">
