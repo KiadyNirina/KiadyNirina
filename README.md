@@ -24,6 +24,42 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
+<div style="display: flex; flex-direction: row;">
+  <a href="https://www.githubtrends.io/wrapped/KiadyNirina">
+    <img src="https://api.githubtrends.io/user/svg/KiadyNirina/langs?time_range=one_year&theme=ferns" />
+  </a>
+  <a href="https://www.githubtrends.io/wrapped/KiadyNirina" >
+    <img src="https://api.githubtrends.io/user/svg/KiadyNirina/repos?time_range=one_year&theme=ferns" />
+  </a>
+</div>
+
+<div style="display: flex; flex-direction: row;">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=162699528" target="_blank" style="display: block;" >
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=162699528&image_size=auto&color_scheme=dark" width="400" height="auto">
+      <img alt="Dashboard stats of @kiadynirina" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=162699528&image_size=auto&color_scheme=light" width="400" height="auto">
+    </picture>
+  </a>
+  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=162699528&activity_type=all" target="_blank" style="display: block">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=162699528&activity_type=all&image_size=auto&color_scheme=dark" width="400" height="auto">
+      <img alt="@kiadynirina's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=162699528&activity_type=all&image_size=auto&color_scheme=light" width="400" height="auto">
+    </picture>
+  </a>    
+</div>
+<div style="display: flex; flex-direction: row;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/kiadynirina/topics-over-time?theme=dark" width="400" height="auto">
+    <img src="https://stats.quine.sh/kiadynirina/topics-over-time?theme=light" width="400" height="auto"/>
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/kiadynirina/languages-over-time?theme=dark" width="400" height="auto">
+    <img src="https://stats.quine.sh/kiadynirina/languages-over-time?theme=light" width="400" height="auto"/>
+    </picture>
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KiadyNirina&margin-h=15&margin-w=15)](https://github.com/KiadyNirina)
+
 ### How to reach me:
   <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
