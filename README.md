@@ -47,16 +47,6 @@
     </picture>
   </a>    
 </div>
-<div style="display: flex; flex-direction: row;">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/kiadynirina/topics-over-time?theme=dark" width="400" height="auto">
-    <img src="https://stats.quine.sh/kiadynirina/topics-over-time?theme=light" width="400" height="auto"/>
-    </picture>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://stats.quine.sh/kiadynirina/languages-over-time?theme=dark" width="400" height="auto">
-    <img src="https://stats.quine.sh/kiadynirina/languages-over-time?theme=light" width="400" height="auto"/>
-    </picture>
-</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KiadyNirina&margin-h=15&margin-w=15)](https://github.com/KiadyNirina)
 
