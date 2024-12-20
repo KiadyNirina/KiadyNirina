@@ -25,15 +25,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 <div style="display: flex; flex-direction: row;">
-  <a href="https://www.githubtrends.io/wrapped/KiadyNirina">
-    <img src="https://api.githubtrends.io/user/svg/KiadyNirina/langs?time_range=one_year&theme=ferns" />
-  </a>
-  <a href="https://www.githubtrends.io/wrapped/KiadyNirina" >
-    <img src="https://api.githubtrends.io/user/svg/KiadyNirina/repos?time_range=one_year&theme=ferns" />
-  </a>
-</div>
-
-<div style="display: flex; flex-direction: row;">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=162699528" target="_blank" style="display: block;" >
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=162699528&image_size=auto&color_scheme=dark" width="400" height="auto">
