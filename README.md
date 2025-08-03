@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kiadynirina/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=kiadynirina&label=Profile%20views&color=0e75b6&style=flat"  />
 </div>
 
 ###
