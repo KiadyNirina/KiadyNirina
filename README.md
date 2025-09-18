@@ -16,7 +16,7 @@
 ### Technologies 💻:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,svelte,vue,php,laravel,python,django,mysql,postgresql,git,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,svelte,vue,php,laravel,python,django,mysql,postgresql,git,postman,docker" />
   </a>
 </p>
 
