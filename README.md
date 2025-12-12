@@ -39,8 +39,6 @@
   </a>    
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiadyNirina&margin-h=15&margin-w=15)](https://github.com/KiadyNirina)
-
 ### How to reach me:
   <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
