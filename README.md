@@ -53,9 +53,3 @@
       <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
     </a><br>
   </div>
-
-
-<!---
-KiadyNirina/KiadyNirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
