@@ -22,7 +22,7 @@
 
 ### Stats 📊:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=162699528" target="_blank" style="display: block;" >
