@@ -21,7 +21,7 @@
 </p>
 
 ### Stats 📊:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 <div style="display: flex; flex-direction: row;">
