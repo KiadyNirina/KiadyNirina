@@ -39,6 +39,8 @@
   </a>    
 </div>
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kiadynirina&theme=radical)
+
 ### How to reach me:
   <div>
     <a href="https://www.facebook.com/kiady.rambeloson/?locale=fr_FR" target="_blank">
