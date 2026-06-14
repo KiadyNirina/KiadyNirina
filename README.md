@@ -53,3 +53,11 @@
       <img src="https://img.shields.io/static/v1?message=kiady142ram@gmail.com&logo=gmail&label=EMAIL&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
     </a><br>
   </div>
+
+### 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiadyNirina/KiadyNirina/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiadyNirina/KiadyNirina/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KiadyNirina/KiadyNirina/output/github-snake.svg" />
+</picture>
