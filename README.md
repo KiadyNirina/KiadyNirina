@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I’m Kiady Nirina</h1>
-  <p><b>Young Full-Stack Developer 🇲🇬 from Madagascar 🚀 | Master 2 Computer Science student | Founder of Kleonix | Building modern web solutions with Laravel, Django, Svelte & Vue.js | Passionate about Web Development & UI/UX</b></p>
+  <h1>Kiady Nirina RAMBELOSON</h1>
+  <p>🇲🇬 Young Full-Stack Developer | Entrepreneur & SaaS Builder 🚀 | Founder of Kleonix | Master 2 Computer Science student | Laravel • Django • Svelte • Vue.js | Web & UI/UX Enthusiast</p>
 </div>
 
 <div align="center">
