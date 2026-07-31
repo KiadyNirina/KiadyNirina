@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I’m Kiady Nirina</h1>
-  <p><b>Young Full-Stack Developer 🇲🇬 from Madagascar 🚀 | Master 2 Computer Science student | Building modern web solutions with Laravel, Django, Svelte & Vue.js | Founder of Kleonix | Passionate about Web Development & UI/UX</b></p>
+  <p><b>Young Full-Stack Developer 🇲🇬 from Madagascar 🚀 | Master 2 Computer Science student | Founder of Kleonix | Building modern web solutions with Laravel, Django, Svelte & Vue.js | Passionate about Web Development & UI/UX</b></p>
 </div>
 
 <div align="center">
@@ -14,10 +14,12 @@
 </div>
 
 ### Technologies 💻:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,svelte,vue,nuxt,php,laravel,python,django,mysql,postgresql,wordpress,git,postman,docker" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,svelte,vue,nuxt" height=40/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,mysql,postgresql,wordpress" height=40 />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,postman,docker" height=40 />
 </p>
 
 ### Stats 📊:
