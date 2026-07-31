@@ -15,7 +15,7 @@
 
 ### Technologies 💻:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,svelte,vue,nuxt" height=40/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,svelte,vue,nuxt,alpinejs" height=40/>
   <br>
   <img src="https://skillicons.dev/icons?i=php,laravel,python,django,mysql,postgresql,wordpress" height=40 />
   <br>
