@@ -43,7 +43,7 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kiadynirina&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kiadynirina)
+![GitHub Activity Graph](https://github-readme-streak-stats-eight.vercel.app/?user=kiadynirina&theme=dark&hide_border=true)
 
 ### How to reach me:
   <div>
