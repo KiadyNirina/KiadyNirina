@@ -23,7 +23,7 @@
 </p>
 
 ### Stats 📊:
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KiadyNirina&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.shion.dev/api/top-langs/?username=kiadynirina&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&icon_color=FFA500)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KiadyNirina&show_icons=true&theme=radical)
 
 <div style="display: flex; flex-direction: row;">
@@ -41,9 +41,10 @@
   </a>    
 </div>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=kiadynirina&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-streak-stats-eight.vercel.app/?user=kiadynirina&theme=dark&hide_border=true)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.shion.dev/api?username=kiadynirina&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&icon_color=FFA500&border_color=30363D" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kiadynirina&theme=dark&hide_border=true" height="180" alt="GitHub Streak" />
+</div>
 
 ### How to reach me:
   <div>
