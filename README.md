@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Kiady Nirina RAMBELOSON</h1>
-  <p>🇲🇬 Young Full-Stack Developer | Entrepreneur & SaaS Builder 🚀 | Founder of Kleonix | Master 2 Computer Science student | Laravel • Django • Svelte • Vue.js | Web & UI/UX Enthusiast</p>
+  <p>🇲🇬 Young Full-Stack Developer | SaaS Builder 🚀 | Founder of Kleonix | Master 2 Computer Science student | Laravel • Django • Svelte • Vue.js | Web & UI/UX Enthusiast</p>
 </div>
 
 <div align="center">
