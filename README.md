@@ -16,7 +16,7 @@
 ### Tech Stack 💻:
 
 <p align="left">
-  <code>HTML</code> · <code>CSS</code> · <code>Tailwind</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Svelte</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>Alpine.js</code>
+  <code>HTML</code> · <code>CSS</code> · <code>Tailwind</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Svelte</code> · <code>SvelteKit</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>Alpine.js</code>
   <br>
   <code>PHP</code> · <code>Laravel</code> · <code>Python</code> · <code>Django</code> · <code>MySQL</code> · <code>PostgreSQL</code> · <code>WordPress</code>
   <br>
