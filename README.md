@@ -14,12 +14,13 @@
 </div>
 
 ### Tech Stack 💻:
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,svelte,vue,nuxt,alpinejs" height=40/>
+  <code>HTML</code> · <code>CSS</code> · <code>Tailwind</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Svelte</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>Alpine.js</code>
   <br>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,django,mysql,postgresql,wordpress" height=40 />
+  <code>PHP</code> · <code>Laravel</code> · <code>Python</code> · <code>Django</code> · <code>MySQL</code> · <code>PostgreSQL</code> · <code>WordPress</code>
   <br>
-  <img src="https://skillicons.dev/icons?i=git,postman,docker" height=40 />
+  <code>Git</code> · <code>Postman</code> · <code>Docker</code>
 </p>
 
 ### Stats 📊:
