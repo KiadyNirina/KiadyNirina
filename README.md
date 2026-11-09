@@ -25,13 +25,12 @@
 
 ### I have built 🛠️ :
 
-- [**CVita**](https://cvvita.netlify.app/) `🟢 Live` — Free, ATS-friendly CV builder with no sign-up: design, customize and export your resume directly from the browser.
-- [**CookUp**](https://cookuup.netlify.app/) `🟢 Live` — Culinary intelligence: suggest, filter and export your favorite recipes in one click.
-- [**SekOra**](https://sekoraa.netlify.app/) `🟢 Live` — School management platform to track students, organize courses and manage institutions, with an interactive map to locate schools.
-- **Bookly** `🟡 In progress` — Platform to read books in streaming, share your own works (novels, poems, short stories) and discover creations from other enthusiasts.
-- **Real-Talk** `🟡 In progress` — Real-time chat platform with notifications and user management.
-- **Datalens** `🟡 In progress` — Data visualization and analytics application.
-
+- <a href="https://cvvita.netlify.app/" target="_blank"><strong>CVita</strong></a> <code>🟢 Live</code> — Free, ATS-friendly CV builder with no sign-up: design, customize and export your resume directly from the browser.
+- <a href="https://cookuup.netlify.app/" target="_blank"><strong>CookUp</strong></a> <code>🟢 Live</code> — Culinary intelligence: suggest, filter and export your favorite recipes in one click.
+- <a href="https://sekoraa.netlify.app/" target="_blank"><strong>SekOra</strong></a> <code>🟢 Live</code> — School management platform to track students, organize courses and manage institutions, with an interactive map to locate schools.
+- <strong>Bookly</strong> <code>🟡 In progress</code> — Platform to read books in streaming, share your own works (novels, poems, short stories) and discover creations from other enthusiasts.
+- <strong>Real-Talk</strong> <code>🟡 In progress</code> — Real-time chat platform with notifications and user management.
+- <strong>Datalens</strong> <code>🟡 In progress</code> — Data visualization and analytics application.
 
 ### Stats 📊:
 
