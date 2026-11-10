@@ -18,7 +18,7 @@
 <p align="left">
   <code>HTML</code> · <code>CSS</code> · <code>Tailwind</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>Svelte</code> · <code>SvelteKit</code> · <code>Vue.js</code> · <code>Nuxt</code> · <code>Alpine.js</code>
   <br>
-  <code>PHP</code> · <code>Laravel</code> · <code>Python</code> · <code>Django</code> · <code>MySQL</code> · <code>PostgreSQL</code> · <code>WordPress</code>
+  <code>PHP</code> · <code>Laravel</code> · <code>Python</code> · <code>Django</code> · <code>MySQL</code> · <code>PostgreSQL</code> · <code>WordPress</code> · <code>Magento</code>
   <br>
   <code>Git</code> · <code>Postman</code> · <code>Docker</code>
 </p>
