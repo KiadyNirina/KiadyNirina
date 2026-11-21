@@ -25,6 +25,7 @@
 
 ### I have built 🛠️ :
 
+- <a href="https://kleoquote.netlify.app/" target="_blank"><strong>KleoQuote</strong></a> <code>🟢 Live</code> — Professional quote and invoice generator with automatic calculations, real-time preview and A4 PDF export.
 - <a href="https://cvvita.netlify.app/" target="_blank"><strong>CVita</strong></a> <code>🟢 Live</code> — Free, ATS-friendly CV builder with no sign-up: design, customize and export your resume directly from the browser.
 - <a href="https://cookuup.netlify.app/" target="_blank"><strong>CookUp</strong></a> <code>🟢 Live</code> — Culinary intelligence: suggest, filter and export your favorite recipes in one click.
 - <a href="https://sekoraa.netlify.app/" target="_blank"><strong>SekOra</strong></a> <code>🟢 Live</code> — School management platform to track students, organize courses and manage institutions, with an interactive map to locate schools.
